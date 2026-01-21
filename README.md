@@ -35,4 +35,4 @@ A simple and clean Notes App built using Kotlin and MVVM architecture. This app 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
+   [git clone https://github.com/SoumyaChatterjee2603/Notes_App.git]
