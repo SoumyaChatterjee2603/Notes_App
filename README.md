@@ -16,8 +16,8 @@ A simple and clean Notes App built using Kotlin and MVVM architecture. This app 
 
 - **Language:** Kotlin
 - **Architecture:** MVVM
-- **Database:** Room
-- **UI:** Jetpack Compose / XML (choose based on your implementation)
+- **Database:** Room Library
+- **UI:** XML
 - **Other Libraries:** 
   - Coroutines
   - LiveData
